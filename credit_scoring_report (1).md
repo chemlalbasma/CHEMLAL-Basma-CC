@@ -1,6 +1,3 @@
-<img src="<img src="image1.jpg" style="height:264px;margin-right:232px"/>" style="height:264px;margin-right:232px"/>
-
-
 # Analyse Prédictive du Risque de Crédit Bancaire
 ## Modélisation et Évaluation du Scoring de Crédit
 
