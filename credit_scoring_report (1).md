@@ -1,3 +1,6 @@
+<img src="![CHEMLAL BASMA PHOTO](https://github.com/user-attachments/assets/0d96c0b7-f9e6-40ea-9419-a6b00212811c)
+" style="height:264px;margin-right:232px"/>
+
 # Analyse Prédictive du Risque de Crédit Bancaire
 ## Modélisation et Évaluation du Scoring de Crédit
 
